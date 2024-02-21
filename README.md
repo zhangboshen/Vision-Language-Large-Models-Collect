@@ -18,7 +18,8 @@
 - **LLaVA Family** 
    - **LLaVA**, "[Visual Instruction Tuning](https://arxiv.org/abs/2304.08485)", NeurIPS 2023. [[Code](https://github.com/haotian-liu/LLaVA)]
    - **LLaVa-1.5**, "[Improved Baselines with Visual Instruction Tuning](https://arxiv.org/abs/2310.03744)", arXiv 2023. [[Code](https://github.com/haotian-liu/LLaVA)]
-   - **Video-LLaVa**, [[Video-LLaVA: Learning United Visual Representation by Alignment Before Projection](https://arxiv.org/abs/2311.10122)], [[Code](https://github.com/PKU-YuanGroup/Video-LLaVA)]
+   - **Video-LLaVa**, [[Video-LLaVA: Learning United Visual Representation by Alignment Before Projection](https://arxiv.org/abs/2311.10122)], arXiv 2023, [[Code](https://github.com/PKU-YuanGroup/Video-LLaVA)]
+   - **MoE-LLaVA**, [[MoE-LLaVA: Mixture of Experts for Large Vision-Language Models](https://arxiv.org/abs/2401.15947)], arXiv 2024. [[Code](https://github.com/PKU-YuanGroup/MoE-LLaVA/tree/main)]
 - **MiniGPT-V Family** 
   - **MiniGPT-4**, "[MiniGPT-4: Enhancing Vision-Language Understanding with Advanced Large Language Models](https://arxiv.org/abs/2304.10592)", arXiv 2023. [[Code](https://github.com/Vision-CAIR/MiniGPT-4)]
   - **MiniGPT-v2**, "[MiniGPT-v2: large language model as a unified interface for vision-language multi-task learning](https://arxiv.org/abs/2310.09478)", arXiv 2023. [[Code](https://github.com/Vision-CAIR/MiniGPT-4)]
