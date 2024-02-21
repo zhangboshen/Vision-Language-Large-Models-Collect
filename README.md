@@ -37,3 +37,5 @@
 - **VisCPM**, "[Large Multilingual Models Pivot Zero-Shot Multimodal Learning across Languages](https://arxiv.org/pdf/2308.12038.pdf)", arXiv 2023. [[Code](https://github.com/OpenBMB/VisCPM)]
 
 
+- **LWM**. "[World Model on Million-Length Video And Language With RingAttention
+](https://arxiv.org/pdf/2402.08268.pdf)", arXiv 2024. [[Code](https://github.com/LargeWorldModel/LWM?tab=readme-ov-file)]
